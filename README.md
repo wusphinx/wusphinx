@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning something funny
 - 📫 My email: wu.sphinx@gmail.com
-- 😄 My blog: https://capops.xyz/
+- 😄 My blog: https://wusphinx.github.io
