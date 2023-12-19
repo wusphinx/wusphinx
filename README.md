@@ -6,6 +6,5 @@
 ### Hi, I am wusphinx.
 
 - 🔭 I’m currently working on Backend/DevOps Related
-- 🌱 I’m currently learning react/vue and rust, next may also kotlin or flutter
 - 📫 My email: wu.sphinx@gmail.com
 - 😄 My blog: https://capops.xyz
