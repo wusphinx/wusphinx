@@ -6,5 +6,5 @@
 ### Hi, I am wusphinx.
 
 - 🔭 I’m currently working on Backend/DevOps Related
-- 📫 My email: wu.sphinx@gmail.com
+- 📫 My email: i@capops.xyz
 - 😄 My blog: https://capops.xyz
