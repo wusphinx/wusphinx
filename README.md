@@ -6,5 +6,6 @@
 ### Hi, I am wusphinx.
 
 - 🔭 I’m currently working on Backend/DevOps Related
+- ✈️ Open to Remote Job Opportunities 🍻
 - 📫 My email: i@capops.xyz
 - 😄 My blog: https://capops.xyz
